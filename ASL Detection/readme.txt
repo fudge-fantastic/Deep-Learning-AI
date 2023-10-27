@@ -1,0 +1,3 @@
+Hello and welcome. I'm Aaditya, and I've been working on a computer vision project called 'American Sign Language Detection.' This computer vision program assists in recognizing sign language gestures using hand movements. The project is an ongoing work in progress.
+
+The model was trained with the assistance of Kaggle and its GPU P100, achieving an impressive accuracy rate of 99%. However, there is more work ahead. Now that we have our model, the next steps involve deploying and testing it using OpenCV.
