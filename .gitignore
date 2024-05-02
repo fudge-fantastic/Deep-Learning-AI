@@ -1,2 +1,5 @@
 venv
 *.csv
+*.jpg
+*.jpeg
+*.DS_Store
